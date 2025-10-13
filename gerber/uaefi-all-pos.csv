@@ -89,29 +89,12 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "G2","LOGO","LOGO",72.000000,5.500000,0.000000,top
 "G3","PROTO_AREA","PROTO_AREA",39.500000,49.960000,90.000000,top
 "G4","PROTO_AREA","PROTO_AREA",47.120000,49.960000,90.000000,top
-"J1","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",88.890000,89.225000,0.000000,top
-"J2","5569-20A2","Molex_Mini-Fit_Jr_5569-20A2_2x10_P4.20mm_Horizontal",10.600000,90.725000,0.000000,top
-"J3","5569-06A2","Molex_Mini-Fit_Jr_5569-06A2_2x03_P4.20mm_Horizontal",90.725000,79.200000,-90.000000,top
-"J4","5569-08A2","Molex_Mini-Fit_Jr_5569-08A2_2x04_P4.20mm_Horizontal",9.275000,25.800000,90.000000,top
-"J5","5569-18A2","Molex_Mini-Fit_Jr_5569-18A2_2x09_P4.20mm_Horizontal",9.275000,45.200000,90.000000,top
 "J6","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",98.150000,37.900000,-90.000000,top
 "J7","Conn_01x05_Male","Molex_SPOX_5267-05A_1x05_P2.50mm_Vertical",83.000000,3.000000,90.000000,top
 "J8","USB_B_Mini","USB-MINI-B-VERTICAL",58.375000,4.700000,90.000000,top
 "J9","USB_C","USB_C",50.000000,4.000000,0.000000,top
-"J10","5569-16A2","Molex_Mini-Fit_Jr_5569-16A2_2x08_P4.20mm_Horizontal",60.300000,90.725000,0.000000,top
-"J11","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",80.490000,89.225000,0.000000,top
-"J12","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",72.090000,89.225000,0.000000,top
-"J13","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",63.690000,89.225000,0.000000,top
-"J14","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.990000,89.225000,0.000000,top
-"J15","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",22.390000,89.225000,0.000000,top
-"J16","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",30.790000,89.225000,0.000000,top
-"J17","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",39.190000,89.225000,0.000000,top
-"J18","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.315000,77.950000,0.000000,top
-"J19","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.315000,69.550000,0.000000,top
-"J20","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.315000,61.150000,0.000000,top
-"J21","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.315000,52.750000,0.000000,top
-"J22","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",13.315000,37.550000,0.000000,top
-"J24","Conn_02x02_Odd_Even","PinSocket_2x02_P2.54mm_Vertical",89.265000,78.350000,0.000000,top
+"J23","2-6447232-3","TE 2-6447232-3",-10.675000,24.675000,-90.000000,top
+"J25","2-6447232-3","TE 2-6447232-3",-10.800000,74.225000,-90.000000,top
 "M1","Module-power_12and5V-0.3","power_12and5V",24.624999,1.224999,0.000000,top
 "M2","Module-knock-0.2","knock",76.974999,82.125000,-90.000000,top
 "M3","Module-vr-discrete-0.5","vr-discrete",42.275000,77.475000,-90.000000,top

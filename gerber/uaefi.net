@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/runner/work/uaefi/uaefi/uaefi.kicad_sch</source>
-    <date>2025-10-12T15:45:41+0000</date>
+    <source>/home/runner/work/uaefiV2/uaefiV2/uaefi.kicad_sch</source>
+    <date>2025-10-13T12:54:37+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -476,6 +476,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -494,6 +495,7 @@
       <property name="LCSC" value="C485578"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -512,6 +514,7 @@
       <property name="LCSC" value="C293509"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -530,6 +533,7 @@
       <property name="LCSC" value="C490533"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -548,6 +552,7 @@
       <property name="LCSC" value="C240834"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -639,6 +644,7 @@
       <property name="LCSC" value="C485577"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -655,6 +661,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -671,6 +678,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -687,6 +695,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -703,6 +712,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -719,6 +729,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -735,6 +746,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -751,6 +763,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -767,6 +780,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -783,6 +797,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -799,6 +814,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -815,6 +831,7 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -831,10 +848,25 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>58349050-e297-4ee8-85eb-0217981900af</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>2-6447232-3</value>
+      <footprint>kicad6-libraries:TE 2-6447232-3</footprint>
+      <fields>
+        <field name="Footprint">kicad6-libraries:TE 2-6447232-3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2-6447232-3" part="2-6447232-3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f949c22-d129-4525-ab56-3b9e89c2a00d</tstamps>
     </comp>
     <comp ref="J24">
       <value>Conn_02x02_Odd_Even</value>
@@ -847,10 +879,25 @@
       <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <property name="exclude_from_board"/>
       <property name="ki_keywords" value="connector"/>
       <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b0f86030-26c8-4195-8813-912051779c1d</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>2-6447232-3</value>
+      <footprint>kicad6-libraries:TE 2-6447232-3</footprint>
+      <fields>
+        <field name="Footprint">kicad6-libraries:TE 2-6447232-3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2-6447232-3" part="2-6447232-3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="uaefi.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a5072f8-a718-4aa4-94e6-e9f8ba256702</tstamps>
     </comp>
     <comp ref="M1">
       <value>Module-power_12and5V-0.3</value>
@@ -2806,6 +2853,51 @@
         <pin num="7" name="SO" type="tri_state"/>
       </pins>
     </libpart>
+    <libpart lib="2-6447232-3" part="2-6447232-3">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">2-6447232-3</field>
+        <field name="Footprint">kicad6-libraries:TE 2-6447232-3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="21" name="21" type="passive"/>
+        <pin num="22" name="22" type="passive"/>
+        <pin num="23" name="23" type="passive"/>
+        <pin num="24" name="24" type="passive"/>
+        <pin num="25" name="25" type="passive"/>
+        <pin num="26" name="26" type="passive"/>
+        <pin num="27" name="27" type="passive"/>
+        <pin num="28" name="28" type="passive"/>
+        <pin num="29" name="29" type="passive"/>
+        <pin num="30" name="30" type="passive"/>
+        <pin num="31" name="31" type="passive"/>
+        <pin num="32" name="32" type="passive"/>
+        <pin num="33" name="33" type="passive"/>
+        <pin num="34" name="34" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Connector" part="Conn_01x05_Pin">
       <description>Generic connector, single row, 01x05, script generated</description>
       <docs>~</docs>
@@ -3638,43 +3730,43 @@
   </libparts>
   <libraries>
     <library logical="JDY-33">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/JDY-33.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/kicad6-libraries/JDY-33.kicad_sym</uri>
     </library>
     <library logical="MPX-4_MAP">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/MPX-4_MAP.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/kicad6-libraries/MPX-4_MAP.kicad_sym</uri>
     </library>
     <library logical="chips">
-      <uri>/home/runner/work/uaefi/uaefi/../kicad6-libraries/chips.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/../kicad6-libraries/chips.kicad_sym</uri>
     </library>
     <library logical="hellen-one-can-0.1">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/can/0.1/can.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/can/0.1/can.kicad_sym</uri>
     </library>
     <library logical="hellen-one-common">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/kicad/hellen-one-common.kicad_sym</uri>
     </library>
     <library logical="hellen-one-knock-0.2">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/knock/0.2/knock.kicad_sym</uri>
     </library>
     <library logical="hellen-one-mega-mcu100-0.3">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/mega-mcu100/0.3/mega-mcu100.kicad_sym</uri>
     </library>
     <library logical="hellen-one-power_12and5V">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/power_12and5V/0.3/power_12and5V.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/power_12and5V/0.3/power_12and5V.kicad_sym</uri>
     </library>
     <library logical="hellen-one-vr-discrete-0.5">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/vr-discrete/0.5/vr-discrete.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/vr-discrete/0.5/vr-discrete.kicad_sym</uri>
     </library>
     <library logical="hellen-one-wbo-0.5">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/wbo/0.5/wbo.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/wbo/0.5/wbo.kicad_sym</uri>
     </library>
     <library logical="misc">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/misc.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/kicad6-libraries/misc.kicad_sym</uri>
     </library>
     <library logical="rusefi_logo">
-      <uri>/home/runner/work/uaefi/uaefi/kicad6-libraries/rusefi_logo.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/kicad6-libraries/rusefi_logo.kicad_sym</uri>
     </library>
     <library logical="vr-max9924">
-      <uri>/home/runner/work/uaefi/uaefi/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
+      <uri>/home/runner/work/uaefiV2/uaefiV2/hellen-one/modules/vr-max9924/0.1/vr-max9924.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -4053,6 +4145,7 @@
     </net>
     <net code="65" name="/OUT_DC1-">
       <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="J23" pin="34" pinfunction="34" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="OUT1" pintype="passive"/>
     </net>
@@ -4576,133 +4669,334 @@
     <net code="149" name="unconnected-(J9-SBU2-PadB8)">
       <node ref="J9" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="150" name="unconnected-(M1-V12-PadE2)">
+    <net code="150" name="unconnected-(J23-Pad1)">
+      <node ref="J23" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="151" name="unconnected-(J23-Pad2)">
+      <node ref="J23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="152" name="unconnected-(J23-Pad3)">
+      <node ref="J23" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="153" name="unconnected-(J23-Pad4)">
+      <node ref="J23" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="154" name="unconnected-(J23-Pad5)">
+      <node ref="J23" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="155" name="unconnected-(J23-Pad6)">
+      <node ref="J23" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="156" name="unconnected-(J23-Pad7)">
+      <node ref="J23" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="157" name="unconnected-(J23-Pad8)">
+      <node ref="J23" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="158" name="unconnected-(J23-Pad9)">
+      <node ref="J23" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="159" name="unconnected-(J23-Pad10)">
+      <node ref="J23" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="160" name="unconnected-(J23-Pad11)">
+      <node ref="J23" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="161" name="unconnected-(J23-Pad12)">
+      <node ref="J23" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="162" name="unconnected-(J23-Pad13)">
+      <node ref="J23" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="163" name="unconnected-(J23-Pad14)">
+      <node ref="J23" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="164" name="unconnected-(J23-Pad15)">
+      <node ref="J23" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="165" name="unconnected-(J23-Pad16)">
+      <node ref="J23" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="166" name="unconnected-(J23-Pad17)">
+      <node ref="J23" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="167" name="unconnected-(J23-Pad18)">
+      <node ref="J23" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="168" name="unconnected-(J23-Pad19)">
+      <node ref="J23" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="169" name="unconnected-(J23-Pad20)">
+      <node ref="J23" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="170" name="unconnected-(J23-Pad21)">
+      <node ref="J23" pin="21" pinfunction="21" pintype="passive"/>
+    </net>
+    <net code="171" name="unconnected-(J23-Pad22)">
+      <node ref="J23" pin="22" pinfunction="22" pintype="passive"/>
+    </net>
+    <net code="172" name="unconnected-(J23-Pad23)">
+      <node ref="J23" pin="23" pinfunction="23" pintype="passive"/>
+    </net>
+    <net code="173" name="unconnected-(J23-Pad24)">
+      <node ref="J23" pin="24" pinfunction="24" pintype="passive"/>
+    </net>
+    <net code="174" name="unconnected-(J23-Pad25)">
+      <node ref="J23" pin="25" pinfunction="25" pintype="passive"/>
+    </net>
+    <net code="175" name="unconnected-(J23-Pad26)">
+      <node ref="J23" pin="26" pinfunction="26" pintype="passive"/>
+    </net>
+    <net code="176" name="unconnected-(J23-Pad27)">
+      <node ref="J23" pin="27" pinfunction="27" pintype="passive"/>
+    </net>
+    <net code="177" name="unconnected-(J23-Pad28)">
+      <node ref="J23" pin="28" pinfunction="28" pintype="passive"/>
+    </net>
+    <net code="178" name="unconnected-(J23-Pad29)">
+      <node ref="J23" pin="29" pinfunction="29" pintype="passive"/>
+    </net>
+    <net code="179" name="unconnected-(J23-Pad30)">
+      <node ref="J23" pin="30" pinfunction="30" pintype="passive"/>
+    </net>
+    <net code="180" name="unconnected-(J23-Pad31)">
+      <node ref="J23" pin="31" pinfunction="31" pintype="passive"/>
+    </net>
+    <net code="181" name="unconnected-(J23-Pad32)">
+      <node ref="J23" pin="32" pinfunction="32" pintype="passive"/>
+    </net>
+    <net code="182" name="unconnected-(J23-Pad33)">
+      <node ref="J23" pin="33" pinfunction="33" pintype="passive"/>
+    </net>
+    <net code="183" name="unconnected-(J25-Pad1)">
+      <node ref="J25" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="184" name="unconnected-(J25-Pad2)">
+      <node ref="J25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="185" name="unconnected-(J25-Pad3)">
+      <node ref="J25" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="186" name="unconnected-(J25-Pad4)">
+      <node ref="J25" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="187" name="unconnected-(J25-Pad5)">
+      <node ref="J25" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="188" name="unconnected-(J25-Pad6)">
+      <node ref="J25" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="189" name="unconnected-(J25-Pad7)">
+      <node ref="J25" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="190" name="unconnected-(J25-Pad8)">
+      <node ref="J25" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="191" name="unconnected-(J25-Pad9)">
+      <node ref="J25" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="192" name="unconnected-(J25-Pad10)">
+      <node ref="J25" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="193" name="unconnected-(J25-Pad11)">
+      <node ref="J25" pin="11" pinfunction="11" pintype="passive"/>
+    </net>
+    <net code="194" name="unconnected-(J25-Pad12)">
+      <node ref="J25" pin="12" pinfunction="12" pintype="passive"/>
+    </net>
+    <net code="195" name="unconnected-(J25-Pad13)">
+      <node ref="J25" pin="13" pinfunction="13" pintype="passive"/>
+    </net>
+    <net code="196" name="unconnected-(J25-Pad14)">
+      <node ref="J25" pin="14" pinfunction="14" pintype="passive"/>
+    </net>
+    <net code="197" name="unconnected-(J25-Pad15)">
+      <node ref="J25" pin="15" pinfunction="15" pintype="passive"/>
+    </net>
+    <net code="198" name="unconnected-(J25-Pad16)">
+      <node ref="J25" pin="16" pinfunction="16" pintype="passive"/>
+    </net>
+    <net code="199" name="unconnected-(J25-Pad17)">
+      <node ref="J25" pin="17" pinfunction="17" pintype="passive"/>
+    </net>
+    <net code="200" name="unconnected-(J25-Pad18)">
+      <node ref="J25" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="201" name="unconnected-(J25-Pad19)">
+      <node ref="J25" pin="19" pinfunction="19" pintype="passive"/>
+    </net>
+    <net code="202" name="unconnected-(J25-Pad20)">
+      <node ref="J25" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="203" name="unconnected-(J25-Pad21)">
+      <node ref="J25" pin="21" pinfunction="21" pintype="passive"/>
+    </net>
+    <net code="204" name="unconnected-(J25-Pad22)">
+      <node ref="J25" pin="22" pinfunction="22" pintype="passive"/>
+    </net>
+    <net code="205" name="unconnected-(J25-Pad23)">
+      <node ref="J25" pin="23" pinfunction="23" pintype="passive"/>
+    </net>
+    <net code="206" name="unconnected-(J25-Pad24)">
+      <node ref="J25" pin="24" pinfunction="24" pintype="passive"/>
+    </net>
+    <net code="207" name="unconnected-(J25-Pad25)">
+      <node ref="J25" pin="25" pinfunction="25" pintype="passive"/>
+    </net>
+    <net code="208" name="unconnected-(J25-Pad26)">
+      <node ref="J25" pin="26" pinfunction="26" pintype="passive"/>
+    </net>
+    <net code="209" name="unconnected-(J25-Pad27)">
+      <node ref="J25" pin="27" pinfunction="27" pintype="passive"/>
+    </net>
+    <net code="210" name="unconnected-(J25-Pad28)">
+      <node ref="J25" pin="28" pinfunction="28" pintype="passive"/>
+    </net>
+    <net code="211" name="unconnected-(J25-Pad29)">
+      <node ref="J25" pin="29" pinfunction="29" pintype="passive"/>
+    </net>
+    <net code="212" name="unconnected-(J25-Pad30)">
+      <node ref="J25" pin="30" pinfunction="30" pintype="passive"/>
+    </net>
+    <net code="213" name="unconnected-(J25-Pad31)">
+      <node ref="J25" pin="31" pinfunction="31" pintype="passive"/>
+    </net>
+    <net code="214" name="unconnected-(J25-Pad32)">
+      <node ref="J25" pin="32" pinfunction="32" pintype="passive"/>
+    </net>
+    <net code="215" name="unconnected-(J25-Pad33)">
+      <node ref="J25" pin="33" pinfunction="33" pintype="passive"/>
+    </net>
+    <net code="216" name="unconnected-(J25-Pad34)">
+      <node ref="J25" pin="34" pinfunction="34" pintype="passive"/>
+    </net>
+    <net code="217" name="unconnected-(M1-V12-PadE2)">
       <node ref="M1" pin="E2" pinfunction="V12" pintype="passive+no_connect"/>
     </net>
-    <net code="151" name="unconnected-(M4-NC-PadE1)">
+    <net code="218" name="unconnected-(M4-NC-PadE1)">
       <node ref="M4" pin="E1" pinfunction="NC" pintype="passive+no_connect"/>
     </net>
-    <net code="152" name="unconnected-(M4-NC-PadE2)">
+    <net code="219" name="unconnected-(M4-NC-PadE2)">
       <node ref="M4" pin="E2" pinfunction="NC" pintype="passive+no_connect"/>
     </net>
-    <net code="153" name="unconnected-(M5-CAN_VIO-PadW2)">
+    <net code="220" name="unconnected-(M5-CAN_VIO-PadW2)">
       <node ref="M5" pin="W2" pinfunction="CAN_VIO" pintype="passive+no_connect"/>
     </net>
-    <net code="154" name="unconnected-(M5-PULL_DOWN2-PadJ_GND2)">
+    <net code="221" name="unconnected-(M5-PULL_DOWN2-PadJ_GND2)">
       <node ref="M5" pin="J_GND2" pinfunction="PULL_DOWN2" pintype="passive+no_connect"/>
     </net>
-    <net code="155" name="unconnected-(M5-PULL_UP1-PadJ_VCC1)">
+    <net code="222" name="unconnected-(M5-PULL_UP1-PadJ_VCC1)">
       <node ref="M5" pin="J_VCC1" pinfunction="PULL_UP1" pintype="passive+no_connect"/>
     </net>
-    <net code="156" name="unconnected-(M5-PULL_UP2-PadJ_VCC2)">
+    <net code="223" name="unconnected-(M5-PULL_UP2-PadJ_VCC2)">
       <node ref="M5" pin="J_VCC2" pinfunction="PULL_UP2" pintype="passive+no_connect"/>
     </net>
-    <net code="157" name="unconnected-(M5-SEL2-PadJ2)">
+    <net code="224" name="unconnected-(M5-SEL2-PadJ2)">
       <node ref="M5" pin="J2" pinfunction="SEL2" pintype="passive+no_connect"/>
     </net>
-    <net code="158" name="unconnected-(M5-VDDA-PadW9)">
+    <net code="225" name="unconnected-(M5-VDDA-PadW9)">
       <node ref="M5" pin="W9" pinfunction="VDDA" pintype="passive+no_connect"/>
     </net>
-    <net code="159" name="unconnected-(M6-BOOT0-PadN16)">
+    <net code="226" name="unconnected-(M6-BOOT0-PadN16)">
       <node ref="M6" pin="N16" pinfunction="BOOT0" pintype="passive+no_connect"/>
     </net>
-    <net code="160" name="unconnected-(M6-GNDA-PadE2)">
+    <net code="227" name="unconnected-(M6-GNDA-PadE2)">
       <node ref="M6" pin="E2" pinfunction="GNDA" pintype="passive+no_connect"/>
     </net>
-    <net code="161" name="unconnected-(M6-I2C_SCL_(PB10)-PadE3)">
+    <net code="228" name="unconnected-(M6-I2C_SCL_(PB10)-PadE3)">
       <node ref="M6" pin="E3" pinfunction="I2C_SCL_(PB10)" pintype="passive+no_connect"/>
     </net>
-    <net code="162" name="unconnected-(M6-I2C_SDA_(PB11)-PadE4)">
+    <net code="229" name="unconnected-(M6-I2C_SDA_(PB11)-PadE4)">
       <node ref="M6" pin="E4" pinfunction="I2C_SDA_(PB11)" pintype="passive+no_connect"/>
     </net>
-    <net code="163" name="unconnected-(M6-SWCLK_(PA14)-PadN6)">
+    <net code="230" name="unconnected-(M6-SWCLK_(PA14)-PadN6)">
       <node ref="M6" pin="N6" pinfunction="SWCLK_(PA14)" pintype="passive+no_connect"/>
     </net>
-    <net code="164" name="unconnected-(M6-SWDIO_(PA13)-PadN5)">
+    <net code="231" name="unconnected-(M6-SWDIO_(PA13)-PadN5)">
       <node ref="M6" pin="N5" pinfunction="SWDIO_(PA13)" pintype="passive+no_connect"/>
     </net>
-    <net code="165" name="unconnected-(M6-SWO_(PB3)-PadN8)">
+    <net code="232" name="unconnected-(M6-SWO_(PB3)-PadN8)">
       <node ref="M6" pin="N8" pinfunction="SWO_(PB3)" pintype="passive+no_connect"/>
     </net>
-    <net code="166" name="unconnected-(M6-V5A_SWITCHABLE-PadW14)">
+    <net code="233" name="unconnected-(M6-V5A_SWITCHABLE-PadW14)">
       <node ref="M6" pin="W14" pinfunction="V5A_SWITCHABLE" pintype="passive+no_connect"/>
     </net>
-    <net code="167" name="unconnected-(M6-V33-PadN23)">
+    <net code="234" name="unconnected-(M6-V33-PadN23)">
       <node ref="M6" pin="N23" pinfunction="V33" pintype="passive+no_connect"/>
     </net>
-    <net code="168" name="unconnected-(M6-V33_REF-PadW13)">
+    <net code="235" name="unconnected-(M6-V33_REF-PadW13)">
       <node ref="M6" pin="W13" pinfunction="V33_REF" pintype="passive+no_connect"/>
     </net>
-    <net code="169" name="unconnected-(M6-VREF2-PadS5)">
+    <net code="236" name="unconnected-(M6-VREF2-PadS5)">
       <node ref="M6" pin="S5" pinfunction="VREF2" pintype="passive+no_connect"/>
     </net>
-    <net code="170" name="unconnected-(M6-nReset-PadN7)">
+    <net code="237" name="unconnected-(M6-nReset-PadN7)">
       <node ref="M6" pin="N7" pinfunction="nReset" pintype="passive+no_connect"/>
     </net>
-    <net code="171" name="unconnected-(U1-SO-Pad3)">
+    <net code="238" name="unconnected-(U1-SO-Pad3)">
       <node ref="U1" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
-    <net code="172" name="unconnected-(U2-SO-Pad3)">
+    <net code="239" name="unconnected-(U2-SO-Pad3)">
       <node ref="U2" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
     </net>
-    <net code="173" name="unconnected-(U3-V1-Pad4)">
+    <net code="240" name="unconnected-(U3-V1-Pad4)">
       <node ref="U3" pin="4" pinfunction="V1" pintype="passive+no_connect"/>
     </net>
-    <net code="174" name="unconnected-(U3-V2-Pad5)">
+    <net code="241" name="unconnected-(U3-V2-Pad5)">
       <node ref="U3" pin="5" pinfunction="V2" pintype="passive+no_connect"/>
     </net>
-    <net code="175" name="unconnected-(U3-V_EX-Pad6)">
+    <net code="242" name="unconnected-(U3-V_EX-Pad6)">
       <node ref="U3" pin="6" pinfunction="V_EX" pintype="passive+no_connect"/>
     </net>
-    <net code="176" name="unconnected-(U5-ALED-Pad16)">
+    <net code="243" name="unconnected-(U5-ALED-Pad16)">
       <node ref="U5" pin="16" pinfunction="ALED" pintype="output+no_connect"/>
     </net>
-    <net code="177" name="unconnected-(U5-EN-Pad15)">
+    <net code="244" name="unconnected-(U5-EN-Pad15)">
       <node ref="U5" pin="15" pinfunction="EN" pintype="output+no_connect"/>
     </net>
-    <net code="178" name="unconnected-(U5-IO1-Pad5)">
+    <net code="245" name="unconnected-(U5-IO1-Pad5)">
       <node ref="U5" pin="5" pinfunction="IO1" pintype="passive+no_connect"/>
     </net>
-    <net code="179" name="unconnected-(U5-IO2-Pad6)">
+    <net code="246" name="unconnected-(U5-IO2-Pad6)">
       <node ref="U5" pin="6" pinfunction="IO2" pintype="passive+no_connect"/>
     </net>
-    <net code="180" name="unconnected-(U5-STAT-Pad17)">
+    <net code="247" name="unconnected-(U5-STAT-Pad17)">
       <node ref="U5" pin="17" pinfunction="STAT" pintype="output+no_connect"/>
     </net>
-    <net code="181" name="unconnected-(U6-STATUS1-Pad2)">
+    <net code="248" name="unconnected-(U6-STATUS1-Pad2)">
       <node ref="U6" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="182" name="unconnected-(U6-STATUS2-Pad4)">
+    <net code="249" name="unconnected-(U6-STATUS2-Pad4)">
       <node ref="U6" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="183" name="unconnected-(U7-STATUS1-Pad2)">
+    <net code="250" name="unconnected-(U7-STATUS1-Pad2)">
       <node ref="U7" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="184" name="unconnected-(U7-STATUS2-Pad4)">
+    <net code="251" name="unconnected-(U7-STATUS2-Pad4)">
       <node ref="U7" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="185" name="unconnected-(U8-STATUS1-Pad2)">
+    <net code="252" name="unconnected-(U8-STATUS1-Pad2)">
       <node ref="U8" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="186" name="unconnected-(U8-STATUS2-Pad4)">
+    <net code="253" name="unconnected-(U8-STATUS2-Pad4)">
       <node ref="U8" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="187" name="unconnected-(U9-STATUS1-Pad2)">
+    <net code="254" name="unconnected-(U9-STATUS1-Pad2)">
       <node ref="U9" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="188" name="unconnected-(U9-STATUS2-Pad4)">
+    <net code="255" name="unconnected-(U9-STATUS2-Pad4)">
       <node ref="U9" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="189" name="unconnected-(U10-STATUS1-Pad2)">
+    <net code="256" name="unconnected-(U10-STATUS1-Pad2)">
       <node ref="U10" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="190" name="unconnected-(U10-STATUS2-Pad4)">
+    <net code="257" name="unconnected-(U10-STATUS2-Pad4)">
       <node ref="U10" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="191" name="unconnected-(U11-STATUS1-Pad2)">
+    <net code="258" name="unconnected-(U11-STATUS1-Pad2)">
       <node ref="U11" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="192" name="unconnected-(U11-STATUS2-Pad4)">
+    <net code="259" name="unconnected-(U11-STATUS2-Pad4)">
       <node ref="U11" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
   </nets>
