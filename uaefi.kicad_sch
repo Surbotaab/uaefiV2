@@ -21968,7 +21968,7 @@
 		(uuid "118765bc-f19d-4c6c-9ad5-6d5d2678d36b")
 	)
 	(label "WBO_Un"
-		(at 93.98 382.27 180)
+		(at 99.06 392.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22397,7 +22397,7 @@
 		(uuid "3841eac2-59cf-4d4a-80bb-7ce66a4075bd")
 	)
 	(label "OUT_INJ3"
-		(at 96.52 377.19 180)
+		(at 101.6 387.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22573,7 +22573,7 @@
 		(uuid "46323a99-9fc8-47e1-9b0c-0fee64e06eed")
 	)
 	(label "OUT_IGN5"
-		(at 109.22 377.19 0)
+		(at 114.3 387.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22936,7 +22936,7 @@
 		(uuid "61d7dc2b-e70b-4807-8979-16a252220e48")
 	)
 	(label "WBO_Rtrim"
-		(at 106.68 384.81 0)
+		(at 111.76 394.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23981,7 +23981,7 @@
 		(uuid "b70fa948-2878-4031-8858-6cbce66d069f")
 	)
 	(label "OUT_INJ2"
-		(at 96.52 374.65 180)
+		(at 101.6 384.81 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24454,7 +24454,7 @@
 		(uuid "df9dbd18-030c-4552-94f6-c945057024b8")
 	)
 	(label "WBO_Ip"
-		(at 93.98 384.81 180)
+		(at 99.06 394.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24542,7 +24542,7 @@
 		(uuid "e518f9b1-ca88-4175-ac38-393278051b47")
 	)
 	(label "OUT_IGN2"
-		(at 109.22 374.65 0)
+		(at 114.3 384.81 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -26808,7 +26808,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
-		(at 104.14 374.65 0)
+		(at 109.22 384.81 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26817,7 +26817,7 @@
 		(dnp no)
 		(uuid "1eb9a28f-2435-47bd-8e30-8616e586fb32")
 		(property "Reference" "J20"
-			(at 102.87 372.11 0)
+			(at 107.95 382.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26825,7 +26825,7 @@
 			)
 		)
 		(property "Value" "Conn_02x02_Odd_Even"
-			(at 102.87 370.84 0)
+			(at 107.95 381 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26834,7 +26834,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical"
-			(at 104.14 374.65 0)
+			(at 109.22 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26843,7 +26843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 104.14 374.65 0)
+			(at 109.22 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26852,7 +26852,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 374.65 0)
+			(at 109.22 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28134,7 +28134,7 @@
 	)
 	(symbol
 		(lib_id "hellen-one-common:+12V_RAW")
-		(at 106.68 382.27 270)
+		(at 111.76 392.43 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28142,7 +28142,7 @@
 		(dnp no)
 		(uuid "32f75702-1eac-425e-8d55-43739d5c230e")
 		(property "Reference" "#PWR0139"
-			(at 102.87 382.27 0)
+			(at 107.95 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28151,7 +28151,7 @@
 			)
 		)
 		(property "Value" "+12V_RAW"
-			(at 109.22 381.635 90)
+			(at 114.3 391.795 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28160,7 +28160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 382.27 0)
+			(at 111.76 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28169,7 +28169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 382.27 0)
+			(at 111.76 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28178,7 +28178,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 106.68 382.27 0)
+			(at 111.76 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33420,7 +33420,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
-		(at 101.6 382.27 0)
+		(at 106.68 392.43 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33429,7 +33429,7 @@
 		(dnp no)
 		(uuid "b0f86030-26c8-4195-8813-912051779c1d")
 		(property "Reference" "J24"
-			(at 100.33 379.73 0)
+			(at 105.41 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33437,7 +33437,7 @@
 			)
 		)
 		(property "Value" "Conn_02x02_Odd_Even"
-			(at 100.33 378.46 0)
+			(at 105.41 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33446,7 +33446,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical"
-			(at 101.6 382.27 0)
+			(at 106.68 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33455,7 +33455,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 382.27 0)
+			(at 106.68 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33464,7 +33464,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 382.27 0)
+			(at 106.68 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
