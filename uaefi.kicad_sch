@@ -22881,7 +22881,7 @@
 		(uuid "5f904c64-b317-49e9-8100-75f0a5f01a48")
 	)
 	(label "OUT_IGN4"
-		(at 142.24 382.27 0)
+		(at 147.32 377.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23090,7 +23090,7 @@
 		(uuid "6b27b407-fe8d-4fdb-9aa7-06eb9425f76e")
 	)
 	(label "OUT_INJ5"
-		(at 129.54 382.27 180)
+		(at 134.62 377.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24586,7 +24586,7 @@
 		(uuid "e8dac13b-082c-4574-86b3-86ec5929e18a")
 	)
 	(label "OUT_INJ4"
-		(at 129.54 379.73 180)
+		(at 134.62 374.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24685,7 +24685,7 @@
 		(uuid "f2ebb442-87cb-4c62-b5d6-e53099c68ad5")
 	)
 	(label "OUT_IGN3"
-		(at 142.24 379.73 0)
+		(at 147.32 374.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -27987,7 +27987,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x02_Odd_Even")
-		(at 137.16 379.73 0)
+		(at 142.24 374.65 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27996,7 +27996,7 @@
 		(dnp no)
 		(uuid "2de5462c-76f8-428d-8673-cc0ddb496a7e")
 		(property "Reference" "J21"
-			(at 135.89 377.19 0)
+			(at 140.97 372.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28004,7 +28004,7 @@
 			)
 		)
 		(property "Value" "Conn_02x02_Odd_Even"
-			(at 135.89 375.92 0)
+			(at 140.97 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28013,7 +28013,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x02_P2.54mm_Vertical"
-			(at 137.16 379.73 0)
+			(at 142.24 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28022,7 +28022,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 379.73 0)
+			(at 142.24 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28031,7 +28031,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 379.73 0)
+			(at 142.24 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
