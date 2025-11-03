@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 3.2,
+          "height": 6.4,
+          "width": 6.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.2
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -120,7 +120,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.15,
-        "min_connection": 0.15,
+        "min_connection": 0.1,
         "min_copper_edge_clearance": 0.2,
         "min_hole_clearance": 0.16,
         "min_hole_to_hole": 0.2,
@@ -131,7 +131,7 @@
         "min_text_height": 0.76,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2999,
-        "min_track_width": 0.15,
+        "min_track_width": 0.1,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.29999,
         "solder_mask_clearance": 0.0,
@@ -535,10 +535,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/par/OneDrive - Optime Subsea AS/Skrivebord/V2/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "uaefiv2.step",
       "svg": "",
       "vrml": ""
     },
