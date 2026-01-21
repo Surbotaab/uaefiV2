@@ -33494,7 +33494,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "xECU 862 V1.02\n\nSN:\n\nFW:"
+	(gr_text "xECU 862 V1.02\n\nSN:  \n\nFW:"
 		(at 86.98 69.38 0)
 		(layer "F.SilkS")
 		(uuid "bd4941b1-a0fd-4380-939e-9d7114f6d559")
@@ -33519,7 +33519,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "BUTTON 2"
+	(gr_text "BUTTON 3"
 		(at 114.287513 78.35 0)
 		(layer "F.SilkS")
 		(uuid "dbdc37ee-2f56-49e3-b893-b2c348b88645")
