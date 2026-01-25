@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/uaefiV2/uaefiV2/uaefi.kicad_sch</source>
-    <date>2026-01-21T13:17:08+0000</date>
+    <date>2026-01-25T12:37:19+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -556,11 +556,13 @@
       <value>Conn_01x05_Male</value>
       <footprint>Connector_Molex:Molex_SPOX_5267-05A_1x05_P2.50mm_Vertical</footprint>
       <fields>
+        <field name="LCSC">C474923</field>
         <field name="Footprint">Connector_Molex:Molex_SPOX_5267-05A_1x05_P2.50mm_Vertical</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="LCSC" value="C474923"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
       <property name="ki_keywords" value="connector"/>
@@ -834,11 +836,13 @@
       <value>2-6447232-3</value>
       <footprint>kicad6-libraries:TE 2-6447232-3</footprint>
       <fields>
+        <field name="LCSC">C574788</field>
         <field name="Footprint">kicad6-libraries:TE 2-6447232-3</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="2-6447232-3" part="2-6447232-3" description=""/>
+      <property name="LCSC" value="C574788"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -865,11 +869,13 @@
       <value>2-6447232-3</value>
       <footprint>kicad6-libraries:TE 2-6447232-3</footprint>
       <fields>
+        <field name="LCSC">C574788</field>
         <field name="Footprint">kicad6-libraries:TE 2-6447232-3</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="2-6447232-3" part="2-6447232-3" description=""/>
+      <property name="LCSC" value="C574788"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="uaefi.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -2050,11 +2056,13 @@
       <value>MPX4/MPXH6400_MAP</value>
       <footprint>kicad6-libraries:MPX-4_MAP</footprint>
       <fields>
+        <field name="LCSC">C511770</field>
         <field name="Footprint">kicad6-libraries:MPX-4_MAP</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="MPX-4_MAP" part="MPX4/MPXH6400_MAP" description=""/>
+      <property name="LCSC" value="C511770"/>
       <property name="Sheetname" value="MAP"/>
       <property name="Sheetfile" value="MAP.kicad_sch"/>
       <sheetpath names="/MAP/" tstamps="/7f618b1f-fe11-49db-a473-d0b521b1fa4f/"/>
