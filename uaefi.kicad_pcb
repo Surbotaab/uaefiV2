@@ -3732,6 +3732,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C574788"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4c17ff3-b51d-4970-995d-b6335b8272f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6a5072f8-a718-4aa4-94e6-e9f8ba256702")
 		(sheetname "Root")
 		(sheetfile "uaefi.kicad_sch")
@@ -6111,6 +6124,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C474923"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5254b26-f681-4b8e-9fd2-083abfe888e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9611,6 +9637,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C574788"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d2b3b7c-eae5-421b-88b2-cd58cd42e57e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21276,6 +21315,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C511770"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1050722-0110-4523-9dac-5be119d561b4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
